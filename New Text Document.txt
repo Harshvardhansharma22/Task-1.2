@@ -8,4 +8,8 @@ ssss
 hgvgh
 >>>>>>> f8c633a68428d77246c1476d3a94f247a81e9370
 hello
+<<<<<<< HEAD
 hello1
+=======
+hellooo 123
+>>>>>>> 06414c5b8db810312d97faa1298aa4489cbacc9f
